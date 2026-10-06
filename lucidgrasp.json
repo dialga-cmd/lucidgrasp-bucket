@@ -1,0 +1,8 @@
+{
+  "version": "1.2.0",
+  "description": "High-performance image search engine built to identify and match visual media.",
+  "homepage": "https://github.com/dialga-cmd/LucidGrasp",
+  "url": "https://github.com/dialga-cmd/LucidGrasp/releases/download/v1.2.0/LucidGrasp_Setup_x64.exe",
+  "hash": "TBD",
+  "moniker": "lucidgrasp"
+}
