@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "High-performance image search engine built to identify and match visual media.",
   "homepage": "https://github.com/dialga-cmd/LucidGrasp",
-  "url": "https://github.com/dialga-cmd/LucidGrasp/releases/download/v1.2.3/LucidGrasp_Setup_x64.exe",
-  "hash": "98a3cf293010796697a1f3007ecd7c1f16d5346e671827264f09a1551ef457ca",
+  "url": "https://github.com/dialga-cmd/LucidGrasp/releases/download/v1.2.4/LucidGrasp_Setup_x64.exe",
+  "hash": "31211c4bbb0fab16f0d95bbba33a4165b5f3250d552f2a09ad897630a8f168c8",
   "moniker": "lucidgrasp"
 }
